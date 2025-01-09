@@ -24,6 +24,16 @@ h2 {
     border-radius: 0;
 }
 
+.custom-button {
+    background-color: #184f63;
+    border: #184f63;
+}
+
+.custom-button:hover {
+    background-color: #1d6d8a;
+    border: #1d6d8a;
+}
+
 #about {
     background-color: white;
 }
